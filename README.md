@@ -3,11 +3,11 @@
 
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/41897989/236675816-d241f53b-954b-40e7-a621-feac99f9d3c8.png" height="150" /></a>
 
-- 🔭 I’m currently working on **KlaxAds**
-
-- 🌱 I’m currently learning **.NET Core Framework, Dart, Nodejs**
-
 - 👯 I’m looking to collaborate on **Flutter mobile apps**
+
+- 🔭 I’m previously worked at **KlaxAds**
+
+- 🌱 I’m currently learning ** Nodejs, Dart, .NET Core Framework**
 
 - 📫 How to reach me **rehamzaky36@gmail.com**
 
