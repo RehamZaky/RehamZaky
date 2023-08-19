@@ -7,7 +7,7 @@
 
 - 🔭 I’m previously worked at **KlaxAds**
 
-- 🌱 I’m currently learning ** Nodejs, Dart, .NET Core Framework**
+- 🌱 I’m currently learning **Nodejs, Dart, .NET Core Framework**
 
 - 📫 How to reach me **rehamzaky36@gmail.com**
 
